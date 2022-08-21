@@ -1,0 +1,35 @@
+.form{
+    background-color: #34495E;
+    flex: 1;
+    height: 100vh;
+   /* margin-left: 100px; */
+   width: 100vw;
+   margin-right: 5px;
+}
+
+
+.header1 > nav > ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+   
+}
+.header1 > nav > ul  {
+    font-size: 20px;
+    list-style: none;
+    
+}
+.header1 > nav > ul > li > a{
+   text-decoration: none;
+   color: whitesmoke;
+}
+ 
+.header1 > nav > ul > li > a:hover{
+    background-color: gray;
+    cursor: pointer;
+    padding: 10px;
+}
+.header1 > nav > ul > li > a:active{
+  
+}

@@ -1,0 +1,11 @@
+/* .personal_info > Form  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: red;
+}
+.personal_info > Form > Input{
+    background-color: blue;
+    padding: 20px;
+}  */
