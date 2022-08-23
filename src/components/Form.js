@@ -1,6 +1,6 @@
 import React from 'react'
 import './form.css'
-import {BrowserRouter, Routes, Route, Link} from 'react-router-dom'
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
 import PersonalInfo from './PersonalInfo'
 import BankInfo from './BankInfo'
 import Kyc from './Kyc'

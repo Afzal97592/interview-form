@@ -1,6 +1,6 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-import {Button, Form, fileList, Upload} from 'antd'
+
+import {Button, Form, Upload} from 'antd'
 
 
 const Kyc = () => {
@@ -20,7 +20,6 @@ const Kyc = () => {
      hasFeedback >
      <Upload placeholder ='upload photo' listType='picture-card' style={{fontSize:'20px'}} >+ Upload Adhaar</Upload>
      </Form.Item>
-     
      <Form.Item name='Upload Photo' >
      <Upload placeholder ='upload photo' listType='picture-card' style={{fontSize:'20px'}} >+ Upload Pan-Card</Upload>
      </Form.Item>

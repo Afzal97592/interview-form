@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Header.css"
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import { Avatar } from '@mui/material';
 
 const Header = () => {

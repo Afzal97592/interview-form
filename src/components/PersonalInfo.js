@@ -1,8 +1,7 @@
 import React from 'react'
 import {Form, Button, Input, } from 'antd'
-import { Link } from 'react-router-dom'
 import './Personal.css';
-import "antd/dist/antd.css";
+
 
 const PersonalInfo = () => {
   return (
